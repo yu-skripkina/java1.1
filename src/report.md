@@ -7,14 +7,14 @@
 На тестирование затрачено: 2 часа
 
 В результате тестирования выявлены следующие дефекты:
-* [Баг-репорт](#https://github.com/yu-skripkina/java1.1/issues/1)
+* [Баг-репорт](https://github.com/yu-skripkina/java1.1/issues/1)
 
 ## Описание процесса тестирования
 
 В процессе тестирования использовались следующие артефакты:
-* [Базовое приложение](#https://github.com/yu-skripkina/java1.1/blob/master/src/Main.java)
+* [Базовое приложение](https://github.com/yu-skripkina/java1.1/blob/master/src/Main.java)
 
-В качестве тестовых данных использовались [данные](#https://github.com/netology-code/javaqa-homeworks/blob/master/intro/MERGED.md):
+В качестве тестовых данных использовались [данные](https://github.com/netology-code/javaqa-homeworks/blob/master/intro/MERGED.md):
 * текущий баланс счёта клиента - переменная типа int, значение - 2_000_000_000 (два миллиарда рублей)*
 * сумма перевода - переменная типа int, значение - 500_000_000 (пятьсот миллионов рублей)
 * переменная для хранения итогового значения - тип int
